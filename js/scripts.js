@@ -105,7 +105,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-    strings: ["I am a junior at Carnegie Mellon University studying Electrical and Computer Engineering.", "I enjoy playing basketball.", "I am interested in learning about new technologies."],
+    strings: ["I am a senior at Carnegie Mellon University studying Electrical and Computer Engineering.", "I enjoy playing basketball.", "I am interested in learning about new technologies."],
     typeSpeed: 10,
     backDelay: 2500,
     loop: !0, // here
